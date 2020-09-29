@@ -1,0 +1,2 @@
+rootProject.name='AMSystem'
+include ':app'
